@@ -1,0 +1,170 @@
+{
+  "catalog_version": "0.1.0",
+  "reviewed_on": "2026-10-29",
+  "terms": [
+    {
+      "concept_id": "transition.tsm",
+      "acronym": "TSM",
+      "preferred_label": "Transitioning Service Member",
+      "aliases": [
+        "TSM",
+        "transitioning service member",
+        "transitioning service members"
+      ],
+      "definition": "A military service member preparing to transition from military to civilian life.",
+      "domain": "transition",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://discover.va.gov/transition-programs/wp-content/uploads/sites/3/2026/02/BAS-KBYG_v1.0_Option1.pdf"
+    },
+    {
+      "concept_id": "disability.bdd",
+      "acronym": "BDD",
+      "preferred_label": "Benefits Delivery at Discharge",
+      "aliases": [
+        "BDD",
+        "Benefits Delivery at Discharge",
+        "BDD claim"
+      ],
+      "definition": "VA pre-discharge disability claim pathway; consult the official page for current filing-window rules.",
+      "domain": "disability",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
+    },
+    {
+      "concept_id": "disability.fdc",
+      "acronym": "FDC",
+      "preferred_label": "Fully Developed Claim",
+      "aliases": [
+        "FDC",
+        "Fully Developed Claim",
+        "fully developed claims"
+      ],
+      "definition": "A VA disability claim approach in which the claimant submits supporting evidence with the claim.",
+      "domain": "disability",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
+    },
+    {
+      "concept_id": "employment.tap",
+      "acronym": "TAP",
+      "preferred_label": "Transition Assistance Program",
+      "aliases": [
+        "TAP",
+        "Transition Assistance Program"
+      ],
+      "definition": "Interagency transition preparation program for separating service members and their spouses.",
+      "domain": "employment",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [
+        "dol-tap"
+      ],
+      "source_url": "https://www.dol.gov/agencies/vets/programs"
+    },
+    {
+      "concept_id": "employment.pcpg",
+      "acronym": "PCPG",
+      "preferred_label": "Personalized Career Planning and Guidance",
+      "aliases": [
+        "PCPG",
+        "Personalized Career Planning and Guidance",
+        "Chapter 36"
+      ],
+      "definition": "VA education and career counseling program, also known as Chapter 36.",
+      "domain": "employment",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://www.va.gov/careers-employment/education-and-career-counseling/"
+    },
+    {
+      "concept_id": "employment.vre",
+      "acronym": "VR&E",
+      "preferred_label": "Veteran Readiness and Employment",
+      "aliases": [
+        "VR&E",
+        "VRE",
+        "Veteran Readiness and Employment",
+        "Chapter 31"
+      ],
+      "definition": "VA program offering employment-related assistance and, when appropriate, education or training to qualifying people.",
+      "domain": "employment",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+    },
+    {
+      "concept_id": "healthcare.m2va",
+      "acronym": "M2VA",
+      "preferred_label": "Post-9/11 Military2VA Case Management",
+      "aliases": [
+        "M2VA",
+        "Military2VA",
+        "Post-9/11 Military2VA",
+        "Military 2VA"
+      ],
+      "definition": "VA transition and case management support connecting eligible transitioning service members and Veterans to care and resources.",
+      "domain": "healthcare",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [
+        "va-health-care"
+      ],
+      "source_url": "https://www.va.gov/POST911VETERANS/index.asp"
+    },
+    {
+      "concept_id": "housing.va_home_loan_coe",
+      "acronym": "COE",
+      "preferred_label": "Certificate of Eligibility (VA home loan)",
+      "aliases": [
+        "COE",
+        "Certificate of Eligibility",
+        "VA home loan COE"
+      ],
+      "definition": "Certificate used in the VA home loan process; other meanings of COE exist outside this context.",
+      "domain": "housing",
+      "branches": [],
+      "context_required": true,
+      "context_keywords": [
+        "home loan",
+        "mortgage",
+        "lender",
+        "housing",
+        "va loan"
+      ],
+      "related_resource_ids": [],
+      "source_url": "https://www.va.gov/forms/26-1880/"
+    },
+    {
+      "concept_id": "records.dd214",
+      "acronym": "DD214",
+      "preferred_label": "DD Form 214",
+      "aliases": [
+        "DD214",
+        "DD 214",
+        "DD Form 214"
+      ],
+      "definition": "Military service release or discharge document referenced in transition and benefits planning.",
+      "domain": "records",
+      "branches": [],
+      "context_required": false,
+      "context_keywords": [],
+      "related_resource_ids": [],
+      "source_url": "https://discover.va.gov/transition-programs/wp-content/uploads/sites/3/2026/02/BAS-KBYG_v1.0_Option1.pdf"
+    }
+  ]
+}

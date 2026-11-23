@@ -1,0 +1,404 @@
+{
+  "catalog_version": "0.1.0",
+  "reviewed_on": "2026-10-30",
+  "source_document": "VA Benefits and Services Know Before You Go Workbook",
+  "source_version": "1",
+  "source_page_convention": "Printed workbook page number",
+  "milestones": [
+    {
+      "milestone_id": "sign-in-to-va-gov",
+      "action": "Create an approved sign-in account and access VA.gov",
+      "transition_phase": "twelve_to_nine_months_before",
+      "service_categories": [
+        "transition"
+      ],
+      "related_resource_ids": [],
+      "source_timing": "6 months before separation or earlier",
+      "next_steps": [
+        "Create a Login.gov or ID.me account.",
+        "Sign in to VA.gov.",
+        "Verify the personal information associated with the account."
+      ],
+      "important_note": "Keep account credentials in a secure location.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 3,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "prepare-bdd-submission",
+      "action": "Gather medical records and prepare for a BDD submission",
+      "transition_phase": "twelve_to_nine_months_before",
+      "service_categories": [
+        "disability"
+      ],
+      "related_resource_ids": [
+        "va-disability-compensation"
+      ],
+      "source_timing": "12-6 months before separation",
+      "next_steps": [
+        "Review BDD eligibility requirements.",
+        "List the conditions intended for the claim.",
+        "Gather military, VA, private, and civilian medical records.",
+        "Schedule needed medical appointments."
+      ],
+      "important_note": "A BDD claim may still be submitted while documented medical appointments are pending.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 3,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "review-dd214",
+      "action": "Review the draft DD214 for accuracy",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "transition"
+      ],
+      "related_resource_ids": [],
+      "source_timing": "9-3 months before separation",
+      "next_steps": [
+        "Verify personal and service information.",
+        "Review character of service and discharge information.",
+        "Check occupation, training, awards, and separation codes.",
+        "Report discrepancies to the appropriate personnel office."
+      ],
+      "important_note": "Incorrect information may affect access to benefits and can be difficult to correct after separation.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 5,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "update-post-service-contact-information",
+      "action": "Replace the .mil email address with personal contact information",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "transition"
+      ],
+      "related_resource_ids": [],
+      "source_timing": "Anytime before separation",
+      "next_steps": [
+        "Create a personal email address if needed.",
+        "Update the email address on VA.gov.",
+        "Update DOD systems that use the .mil address.",
+        "Update mailing address and telephone information."
+      ],
+      "important_note": "Access to the .mil email address generally ends after separation.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 5,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "contact-va-healthcare-liaison",
+      "action": "Contact a VA Liaison for Healthcare",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "healthcare",
+        "transition"
+      ],
+      "related_resource_ids": [
+        "va-health-care"
+      ],
+      "source_timing": "As soon as eligible to apply for VA health care",
+      "next_steps": [
+        "Locate the appropriate VA health care liaison.",
+        "Discuss transfer of health records and prescriptions.",
+        "Coordinate registration for VA health care.",
+        "Discuss scheduling an initial VA appointment."
+      ],
+      "important_note": "VA health care liaisons support continuity of care between DOD and VA.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 6,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "submit-bdd-claim",
+      "action": "Submit a Benefits Delivery at Discharge claim",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "disability"
+      ],
+      "related_resource_ids": [
+        "va-disability-compensation"
+      ],
+      "source_timing": "180-90 days before separation",
+      "next_steps": [
+        "Complete the Separation Health Assessment self-assessment.",
+        "Submit gathered medical and supporting records.",
+        "Attend required medical examinations.",
+        "Seek accredited assistance when appropriate."
+      ],
+      "important_note": "A VSO or Military Service Coordinator may be available to assist with the claim.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 7,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "apply-va-skillbridge",
+      "action": "Review and apply for a VA SkillBridge opportunity",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "employment",
+        "transition"
+      ],
+      "related_resource_ids": [],
+      "source_timing": "9-6 months before separation",
+      "next_steps": [
+        "Review available SkillBridge opportunities.",
+        "Determine applicable program requirements.",
+        "Complete the application process.",
+        "Obtain command approval."
+      ],
+      "important_note": "Military branches may impose additional participation requirements.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 7,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "apply-pcpg",
+      "action": "Apply for Personalized Career Planning and Guidance",
+      "transition_phase": "nine_to_three_months_before",
+      "service_categories": [
+        "employment",
+        "education"
+      ],
+      "related_resource_ids": [
+        "va-education-benefits"
+      ],
+      "source_timing": "9-3 months before separation",
+      "next_steps": [
+        "Review PCPG eligibility information.",
+        "Apply online, by mail, or in person.",
+        "Prepare to discuss work experience and career goals."
+      ],
+      "important_note": "The workbook encourages scheduling PCPG before separation when possible.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 8,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "apply-va-health-care",
+      "action": "Apply for VA health care",
+      "transition_phase": "three_months_before_to_three_months_after",
+      "service_categories": [
+        "healthcare"
+      ],
+      "related_resource_ids": [
+        "va-health-care"
+      ],
+      "source_timing": "3 months before separation",
+      "next_steps": [
+        "Gather information needed for the VA health care application.",
+        "Apply online or submit VA Form 10-10EZ in person.",
+        "Retain application confirmation information."
+      ],
+      "important_note": "There is no general deadline to apply; the workbook states that an application may be submitted no earlier than one year before separation or any time afterward.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 9,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "submit-initial-fdc",
+      "action": "Submit an initial Fully Developed Claim when applicable",
+      "transition_phase": "three_months_before_to_three_months_after",
+      "service_categories": [
+        "disability"
+      ],
+      "related_resource_ids": [
+        "va-disability-compensation"
+      ],
+      "source_timing": "89 days before or any time after separation",
+      "next_steps": [
+        "Complete VA Form 21-526EZ.",
+        "Submit available supporting evidence.",
+        "Attend scheduled claim examinations."
+      ],
+      "important_note": "The workbook encourages filing within the pre-separation window for an expedited decision and notes possible backpay when filed within one year after separation.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 9,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "engage-va-solid-start",
+      "action": "Engage with VA Solid Start outreach",
+      "transition_phase": "three_months_before_to_three_months_after",
+      "service_categories": [
+        "transition"
+      ],
+      "related_resource_ids": [
+        "va-solid-start"
+      ],
+      "source_timing": "90, 180, and 365 days after separation",
+      "next_steps": [
+        "Keep contact information current on VA.gov.",
+        "Save the VA Solid Start telephone number.",
+        "Respond when VA Solid Start calls."
+      ],
+      "important_note": "VA Solid Start contacts newly separated Veterans during their first year after separation.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 10,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "submit-final-dd214-for-bdd",
+      "action": "Submit the finalized DD214 for a previously filed BDD claim",
+      "transition_phase": "three_months_before_to_three_months_after",
+      "service_categories": [
+        "disability",
+        "transition"
+      ],
+      "related_resource_ids": [
+        "va-disability-compensation"
+      ],
+      "source_timing": "0-3 months after separation",
+      "next_steps": [
+        "Obtain the finalized DD214.",
+        "Submit the document through the authorized VA process.",
+        "Track the claim and respond to document requests."
+      ],
+      "important_note": "The submitted copy should include separation and character-of-service information.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 11,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "submit-fdc-or-standard-claim",
+      "action": "Submit an FDC or Standard Claim when needed",
+      "transition_phase": "three_to_twelve_months_after",
+      "service_categories": [
+        "disability"
+      ],
+      "related_resource_ids": [
+        "va-disability-compensation"
+      ],
+      "source_timing": "Anytime after separation",
+      "next_steps": [
+        "Identify the type of claim to file.",
+        "Consider help from a VA-accredited representative.",
+        "Gather medical and supporting documents.",
+        "Review the official disability compensation guidance."
+      ],
+      "important_note": "The workbook states there is no deadline to file and describes an Intent to File as a way to preserve a potential effective date.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 13,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "apply-vre",
+      "action": "Review and apply for Veteran Readiness and Employment",
+      "transition_phase": "three_to_twelve_months_after",
+      "service_categories": [
+        "employment",
+        "education"
+      ],
+      "related_resource_ids": [
+        "va-vre"
+      ],
+      "source_timing": "Anytime after separation",
+      "next_steps": [
+        "Review VR&E program information.",
+        "Apply online, by mail, or in person.",
+        "Consider accredited assistance when needed."
+      ],
+      "important_note": "VetPath provides program information but does not determine VR&E eligibility.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 14,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "access-mental-health-support",
+      "action": "Access mental health support when needed",
+      "transition_phase": "twelve_months_after_and_beyond",
+      "service_categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "related_resource_ids": [
+        "va-mental-health-services"
+      ],
+      "source_timing": "12 months after separation and beyond; support is always available",
+      "next_steps": [
+        "Review available VA mental health services.",
+        "Use urgent or crisis support when appropriate."
+      ],
+      "important_note": "The workbook states that there is no deadline to seek support and directs Veterans in crisis to dial 988 and press 1.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 15,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "apply-gi-bill-benefits",
+      "action": "Review and apply for GI Bill benefits",
+      "transition_phase": "twelve_months_after_and_beyond",
+      "service_categories": [
+        "education"
+      ],
+      "related_resource_ids": [
+        "va-education-benefits"
+      ],
+      "source_timing": "12 months after separation and beyond",
+      "next_steps": [
+        "Review available VA education benefit programs.",
+        "Compare education and training options.",
+        "Use the official VA application process."
+      ],
+      "important_note": "The workbook notes that only one VA education or training benefit may be used at a time.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 15,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "milestone_id": "request-va-home-loan-coe",
+      "action": "Request a VA home loan Certificate of Eligibility",
+      "transition_phase": "twelve_months_after_and_beyond",
+      "service_categories": [
+        "housing"
+      ],
+      "related_resource_ids": [
+        "va-home-loan-coe"
+      ],
+      "source_timing": "12 months after separation and beyond",
+      "next_steps": [
+        "Review VA home-loan eligibility information.",
+        "Gather supporting service documentation.",
+        "Request a Certificate of Eligibility through an authorized method."
+      ],
+      "important_note": "VetPath does not determine home-loan eligibility or funding-fee exemptions.",
+      "source_document": "VA Benefits and Services Know Before You Go Workbook",
+      "source_version": "1",
+      "source_page": 15,
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    }
+  ]
+}

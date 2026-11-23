@@ -1,0 +1,280 @@
+{
+  "catalog_version": "0.2.0",
+  "reviewed_on": "2026-10-30",
+  "resources": [
+    {
+      "resource_id": "va-health-care",
+      "preferred_name": "Apply for VA Health Care",
+      "resource_type": "federal_service",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official guidance for applying for and managing VA health care.",
+      "service_categories": [
+        "healthcare"
+      ],
+      "aliases": [
+        "VA health care",
+        "VA healthcare",
+        "health care enrollment",
+        "10-10EZ"
+      ],
+      "keywords": [
+        "medical",
+        "enrollment",
+        "prescriptions",
+        "continuous care",
+        "health benefits"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_and_apply",
+          "url": "https://www.va.gov/health-care/how-to-apply/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-education-benefits",
+      "preferred_name": "VA Education and Training Benefits",
+      "resource_type": "federal_benefit",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official information about GI Bill and other VA education and training benefits.",
+      "service_categories": [
+        "education"
+      ],
+      "aliases": [
+        "GI Bill",
+        "education benefits",
+        "training benefits"
+      ],
+      "keywords": [
+        "college",
+        "school",
+        "tuition",
+        "job training",
+        "career counseling"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_and_apply",
+          "url": "https://www.va.gov/education/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-vre",
+      "preferred_name": "Veteran Readiness and Employment",
+      "resource_type": "federal_benefit",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official information about Veteran Readiness and Employment, also known as Chapter 31 or VR&E.",
+      "service_categories": [
+        "employment",
+        "education"
+      ],
+      "aliases": [
+        "VR&E",
+        "VRE",
+        "Chapter 31",
+        "vocational rehabilitation"
+      ],
+      "keywords": [
+        "employment",
+        "job",
+        "training",
+        "career",
+        "service-connected disability"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_and_apply",
+          "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-disability-compensation",
+      "preferred_name": "VA Disability Compensation",
+      "resource_type": "federal_benefit",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official information about applying for and managing VA disability compensation.",
+      "service_categories": [
+        "disability"
+      ],
+      "aliases": [
+        "disability claim",
+        "VA disability",
+        "disability compensation"
+      ],
+      "keywords": [
+        "BDD",
+        "FDC",
+        "claim",
+        "service-connected",
+        "compensation"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_and_apply",
+          "url": "https://www.va.gov/disability/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-mental-health-services",
+      "preferred_name": "VA Mental Health Services",
+      "resource_type": "federal_service",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official information about accessing VA mental health services and urgent support.",
+      "service_categories": [
+        "mental_health",
+        "healthcare"
+      ],
+      "aliases": [
+        "mental health support",
+        "VA mental health",
+        "behavioral health"
+      ],
+      "keywords": [
+        "PTSD",
+        "MST",
+        "depression",
+        "anxiety",
+        "crisis support"
+      ],
+      "official_links": [
+        {
+          "purpose": "access_services",
+          "url": "https://www.va.gov/health-care/health-needs-conditions/mental-health/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-home-loan-coe",
+      "preferred_name": "VA Home Loan Certificate of Eligibility",
+      "resource_type": "federal_benefit",
+      "agency": "Department of Veterans Affairs",
+      "description": "Official guidance for requesting a VA home loan Certificate of Eligibility.",
+      "service_categories": [
+        "housing"
+      ],
+      "aliases": [
+        "COE",
+        "Certificate of Eligibility",
+        "VA home loan"
+      ],
+      "keywords": [
+        "mortgage",
+        "housing",
+        "home loan",
+        "Form 26-1880"
+      ],
+      "official_links": [
+        {
+          "purpose": "request_coe",
+          "url": "https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "va-solid-start",
+      "preferred_name": "VA Solid Start",
+      "resource_type": "federal_program",
+      "agency": "Department of Veterans Affairs",
+      "description": "Transition support that connects newly separated service members with VA benefits and resources.",
+      "service_categories": [
+        "transition"
+      ],
+      "aliases": [
+        "Solid Start",
+        "VASS",
+        "VA Solid Start"
+      ],
+      "keywords": [
+        "newly separated",
+        "transition calls",
+        "90 days",
+        "180 days",
+        "365 days"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_more",
+          "url": "https://www.va.gov/service-member-benefits/solid-start/"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    },
+    {
+      "resource_id": "dol-tap",
+      "preferred_name": "Transition Assistance Program",
+      "resource_type": "federal_program",
+      "agency": "Department of Labor",
+      "description": "Federal transition information, tools, and training for service members and their spouses.",
+      "service_categories": [
+        "transition",
+        "employment"
+      ],
+      "aliases": [
+        "TAP",
+        "Transition Assistance Program"
+      ],
+      "keywords": [
+        "separation",
+        "retirement",
+        "civilian employment",
+        "career preparation"
+      ],
+      "official_links": [
+        {
+          "purpose": "learn_more",
+          "url": "https://www.dol.gov/agencies/vets/programs/tap"
+        }
+      ],
+      "eligibility": {
+        "determination": "not_assessed",
+        "requires_official_verification": true
+      },
+      "verification_status": "verified_official_source",
+      "last_reviewed": "2026-10-30"
+    }
+  ]
+}
