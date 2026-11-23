@@ -2,10 +2,21 @@
 .venv/
 venv/
 
-# Environment variables (keep .env.example, never commit .env)
+# Environment variables and local secrets
 .env
+.env.*
+!.env.example
+.envrc
+
 deploy/**/.env
 deploy/**/eval.env
+
+# Credential and private-key files
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
 
 # Deploy kit generated artifacts
 deploy/ibm/local-mcp-toolkit/_stage/
